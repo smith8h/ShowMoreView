@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="showMoreColor">#999999</color>
+    <declare-styleable name="ShowMoreView">
+        <attr format="integer" name="maxTextLength"/>
+        <attr format="color" name="showMoreColor"/>
+        <attr format="boolean" name="expandText"/>
+        <attr format="string" name="showMoreText"/>
+	<attr format="string" name="showLessText"/>
+    </declare-styleable>
+</resources>
